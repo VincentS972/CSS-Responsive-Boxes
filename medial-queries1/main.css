@@ -23,8 +23,7 @@ body {
   gap: 15px;
 }
 
-.a,
-.c {
+.a,.c {
   flex-grow: 1;
   background-color: lightblue;
   text-align: center;
